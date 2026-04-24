@@ -9,7 +9,7 @@
 ## 🚀 Sobre mim
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas pela FIAP
 - 📚 Atualmente estudando Banco de Dados
-- 💼 Apto para Estagio em Dados / TI
+- 💼 Apto para Estágio em Dados / TI
 - 📍 Brasil
 - 🧠 Aprendendo: Python, SQL, Java e JavaScript
 - 📊 Interesse em Análise de Dados, BI e Dashboards
